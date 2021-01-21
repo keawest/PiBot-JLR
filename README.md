@@ -13,4 +13,4 @@ Features i'm working on implementing are:
 * Get last 5-10 trips
 * Lock and unluck
 * honk the horn
-etc..
+etc. etc.
